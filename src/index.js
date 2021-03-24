@@ -1,5 +1,6 @@
 import initTilt from './js/tilt';
 import initSr from './js/sr';
+import PdfFile from './assets/Anup_Karki_CV.pdf';
 
 
 import './style/main.scss';
